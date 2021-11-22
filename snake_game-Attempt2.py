@@ -1,4 +1,4 @@
-from operator import gt
+
 import turtle
 import time
 import random
